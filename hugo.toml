@@ -1,4 +1,28 @@
 baseURL = 'https://estspit.github.io'
 languageCode = 'en-us'
-title = 'ES'
-theme = "hugo-bearcub"
+theme = "PaperMod"
+
+title = "Estspit engineering"
+author = "Est Spit"
+copyright = "© 2024"
+DefaultContentLanguage = "en"
+
+[menus]
+  [[menus.main]]
+    name = 'Posts'
+    pageRef = '/posts/'
+    weight = 10
+  [[menus.main]]
+    name = 'Tags'
+    pageRef = '/tags/'
+    weight = 20
+  [[menus.main]]
+    name = 'Links'
+    pageRef = '/links'
+    weight = 30
+  [[menus.main]]
+    name = 'Contacts'
+    pageRef = '/contacts'
+    weight = 40
+
+
