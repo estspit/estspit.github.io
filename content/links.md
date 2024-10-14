@@ -15,3 +15,4 @@ draft = false
 ### Learning
 
 - [Geeks for geeks](https://www.geeksforgeeks.org/)
+- [w3schools](https://www.w3schools.com/)
